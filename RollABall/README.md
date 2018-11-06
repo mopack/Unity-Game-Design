@@ -4,6 +4,8 @@ RollABall is a 3d game written in C# and using Unity engine to compile.
 
 Try to get all the targets on board to win the game.
 
+Game sounds are made by <https://www.bfxr.net>.
+
 ## Gameplay
 
 Watch RollABall Gameplay on Youtube.
