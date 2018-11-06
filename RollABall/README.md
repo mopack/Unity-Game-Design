@@ -1,6 +1,6 @@
 # UnityGame: RollABall
 
-RollABall is a 3d game written in C# and using Unity engine to render.
+RollABall is a 3d game written in C# and using Unity engine to compile.
 
 Try to get all the targets on board to win the game.
 
