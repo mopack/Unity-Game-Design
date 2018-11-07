@@ -4,6 +4,8 @@ RollABall is a 3d game written in C# and using Unity engine to compile.
 
 You're controling a cowboy running stoppably. Avoid the traps, get on the trucks, and try to get as most gold and run as long as you can. 
 
+![Gameplay](Images/Snapshot.png)
+
 ## Control
 
 * You can use both mouse and keyboard to control the cowboy.  
