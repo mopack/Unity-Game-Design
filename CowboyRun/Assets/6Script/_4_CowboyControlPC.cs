@@ -117,8 +117,7 @@ public class _4_CowboyControlPC : MonoBehaviour {
 		if (CowboyCollision.collider.tag == "Coin") {
 			_1_GameControl.CoinNumber++;
 			Destroy (CowboyCollision.gameObject);
-			Instantiate (GetCoinSound, transform.position, Quaternion.identity);
-			//AudioSource.PlayClipAtPoint (PickCoinSound, transform.position);
+			Instantiate (GetCoinSound, transform.position, Quaternion.identity); //AudioSource.PlayClipAtPoint (PickCoinSound, transform.position);
 			Instantiate (CoinsEffects, transform.position + new Vector3(0F, 1F, 2F), Quaternion.identity);
 		}
 	}

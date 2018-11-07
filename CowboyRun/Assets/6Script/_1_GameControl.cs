@@ -69,7 +69,9 @@ public class _1_GameControl : MonoBehaviour {
 			PlayStopButton.GetComponent<Image> ().sprite = UI_03;
 			MessageMaskUI.SetActive (true);
 
-			_8_CowboyControlMouse.StartReciprocalTime = 3; // _4_CowboyControlPC.StartReciprocalTime = 3;
+			_9_CowboyControlMK.StartReciprocalTime = 3;
+			//_8_CowboyControlMouse.StartReciprocalTime = 3; 
+			//_4_CowboyControlPC.StartReciprocalTime = 3;
 
 			Time.timeScale = 0;
 		} else { // UI_03 Stop->Start

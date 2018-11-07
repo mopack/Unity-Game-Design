@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\6Script\_9_CowboyControlMK.cs">
+    <Files>
+      <File FileName="Assets\6Script\_1_GameControl.cs" Line="72" Column="4" />
+      <File FileName="Assets\6Script\_8_CowboyControlMouse.cs" Line="141" Column="139" />
+      <File FileName="Assets\6Script\_4_CowboyControlPC.cs" Line="69" Column="52" />
+      <File FileName="Assets\6Script\_9_CowboyControlMK.cs" Line="74" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

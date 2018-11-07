@@ -1,10 +1,18 @@
 fileFormatVersion: 2
 guid: 02622f4b0c06ff342b69939d52e98a2e
-timeCreated: 1538814190
+timeCreated: 1541545324
 licenseType: Free
 MonoImporter:
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - JumpSound: {fileID: 1000013440173990, guid: 4b0f2355575373442acd26d6248c9ce4,
+      type: 2}
+  - RunSmoke: {instanceID: 0}
+  - CoinsEffects: {instanceID: 0}
+  - GetCoinSound: {instanceID: 0}
+  - HitSound: {instanceID: 0}
+  - PickCoinSound: {instanceID: 0}
+  - StartRecipreocalTimeText: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
